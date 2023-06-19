@@ -1,0 +1,2 @@
+# Machine-Learning - Predicting Counterfeit Banknotes using KNN Classifier
+In this repository we are going to be predicting whether a banknote (e.g., a $20 bill) is counterfeit or legitimate. Researchers have put together a data set, based on photographs of many individual banknotes: some counterfeit, some legitimate. They computed a few numbers from each image. So, for each banknote, we know a few numbers that were computed from a photograph of it as well as its class (whether it is counterfeit or not).
